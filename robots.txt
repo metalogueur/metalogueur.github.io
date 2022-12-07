@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://metalogueur.github.io/sitemap.xml
