@@ -1,4 +1,4 @@
-baseURL: https://metalogueur.github.io
+baseURL: "https://metalogueur.github.io/"
 defaultContentLanguage: fr
 languageCode: fr-ca
 title: Benoit Hamel
