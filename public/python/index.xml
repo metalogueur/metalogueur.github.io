@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Benoit Hamel</title>
+    <link>https://metalogueur.github.io/python/</link>
+    <description>Recent content in Python on Benoit Hamel</description>
+    <image>
+      <url>https://metalogueur.github.io/img/profile-picture.png</url>
+      <link>https://metalogueur.github.io/img/profile-picture.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-ca</language>
+    <lastBuildDate>Mon, 05 Dec 2022 19:59:31 -0500</lastBuildDate><atom:link href="https://metalogueur.github.io/python/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
