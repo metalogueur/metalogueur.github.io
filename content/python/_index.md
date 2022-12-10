@@ -11,7 +11,7 @@ tocopen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Tous mes projets Python réunis sous une même adresse."
+summary: "Tous mes projets Python réunis sous une même adresse."
 canonicalURL: # TODO : build un canonical URL avec les variables HUGO
 ShowCanonicalLink: false
 CanonicalLinkText: 

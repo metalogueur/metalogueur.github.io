@@ -11,7 +11,7 @@ tocopen: false
 draft: false
 hidemeta: true
 comments: false
-description: "Toutes les raisons, en long et en large, du pourquoi que ces pages existent."
+summary: "Toutes les raisons, en long et en large, du pourquoi que ces pages existent."
 canonicalURL: # TODO : build un canonical URL avec les variables HUGO
 ShowCanonicalLink: false
 CanonicalLinkText: 
